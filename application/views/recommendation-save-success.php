@@ -1,0 +1,1 @@
+<h4><?php echo lang('successRecommend');?></h4>

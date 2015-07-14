@@ -1,0 +1,1 @@
+<tr><td><?php $row->author;?></td><td>$row->text</td><td>$row->date</td></tr>
